@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Haydar Haydar Ahmad 12031875
+Walid Jallad 12134148
 ## Getting Started
 
 This project is a starting point for a Flutter application.
